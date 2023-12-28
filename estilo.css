@@ -66,3 +66,21 @@ body{
     transition: 0.8s;
 }
 
+@media screen and (min-width: 0px) and (max-width: 980px){
+    #imagemimportante img{
+        height: 1000px;
+    }
+    .botao{
+        font-size: 50px;
+        width: 170px;
+    }
+    #botaosim{
+        margin-right: 300px;
+    }
+    #botaonao{
+        margin-left: 300px;
+    }
+    .textoimportante{
+        font-size: 70px;
+    }
+}
