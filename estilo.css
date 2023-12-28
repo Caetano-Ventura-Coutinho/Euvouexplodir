@@ -41,7 +41,6 @@ body{
     position:absolute;
     margin-left: 200px;
     transition: 0.8s;
-    color: white;
 }
 .textoimportante{
     color: white;
@@ -67,8 +66,3 @@ body{
     transition: 0.8s;
 }
 
-@media screen and (min-width:0px) and (max-width:736px){
-    #imagemimportante img{
-        
-    }
-}
