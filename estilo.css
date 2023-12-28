@@ -10,6 +10,7 @@ body{
     height: 900px;
     display: flex;
     background-color: #349ccc;
+    width: 100%;
 }
 #botoes{
     justify-content: center;
@@ -66,4 +67,4 @@ body{
     transition: 0.8s;
 }
 
-
+@media screen and (min-width:0px) and (max-width:500px){
